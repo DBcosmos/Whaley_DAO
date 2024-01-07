@@ -22,7 +22,7 @@ layout:
 
 As a DAO we partner and collaborate with teams across web 3. Empowering their communities through education via: &#x20;
 
-* Valifatig the Migaloo chain giving more power to the community voice
+* Validating the Migaloo chain giving more power to the community voice
 * Analytics, infographics, charts and on chain data
 * Discord, Telegram and Twitter Support
 * Promotional Posts via twitter to increase engagement
