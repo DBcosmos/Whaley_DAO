@@ -1,5 +1,7 @@
 ---
-description: A community DAO dedicated to education, analytics and community engagement.
+description: >-
+  A community DAO validating the Migaloo chian and dedicated to education,
+  analytics and community engagement.
 cover: .gitbook/assets/wdw.jpeg
 coverY: 0
 layout:
@@ -20,7 +22,7 @@ layout:
 
 # 🙎 Introduction
 
-As a DAO we partner and collaborate with teams across web 3. Empowering their communities through education via: &#x20;
+As a DAO we partner and collaborate with teams across web 3. Empowering their communities through: &#x20;
 
 * Validating the Migaloo chain giving more power to the community voice
 * Analytics, infographics, charts and on chain data
