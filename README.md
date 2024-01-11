@@ -22,10 +22,11 @@ layout:
 
 # 🙎 Introduction
 
-As a DAO we partner and collaborate with teams across web 3. Empowering their communities through: &#x20;
+As a DAO we partner and collaborate with teams across Web 3. Empowering their teams and communities through: &#x20;
 
-* Validating the Migaloo chain giving more power to the community voice
-* Analytics, infographics, charts and on chain data
+* Validating the Migaloo chain gives more power to the community's voice
+* Writing docs, litepapers and articles
+* Analytics, infographics, charts and on-chain data
 * Discord, Telegram and Twitter Support
-* Promotional Posts via twitter to increase engagement
+* Promotional Posts via Twitter to increase engagement
 

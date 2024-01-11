@@ -28,4 +28,4 @@ Backbone Labs is a group of blockchain enthusiasts and developers who are dedica
 
 The Backbone Labs team is focused on building tools and solutions that are accessible and easy to use for people of all skill levels. We believe that by making the technology more approachable, we can help more people discover the benefits of decentralised systems and the potential of NFTs.
 
-Whaley DAO is Proud to collaborate with BackBone Labs Community driven approach to NFTs and DeFi
+Whaley DAO is Proud to collaborate with BackBone Labs and contribute to their community driven approach to NFTs and DeFi
