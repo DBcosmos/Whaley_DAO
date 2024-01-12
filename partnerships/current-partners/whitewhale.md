@@ -2,7 +2,7 @@
 description: >-
   Solving the fractured liquidity and unstable pricing problem by connecting
   liquidity across the Cosmos ecosystem.
-cover: ../.gitbook/assets/ww.jpeg
+cover: ../../.gitbook/assets/ww.jpeg
 coverY: 0
 layout:
   cover:

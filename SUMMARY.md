@@ -6,9 +6,11 @@
 
 ## Partnerships
 
-* [🐳 WhiteWhale](partnerships/whitewhale.md)
-* [💻 NoDumpNode](partnerships/nodumpnode.md)
-* [🏦 Ginkou](partnerships/ginkou.md)
-* [🏴☠ BackBone Labs](partnerships/backbone-labs.md)
-* [🧠 Smart Stake](partnerships/smart-stake.md)
-* [⛏ Galactic Mining Club](partnerships/galactic-mining-club.md)
+* [🤝 Partner With Us](partnerships/partner-with-us.md)
+* [🫂 Current Partners](partnerships/current-partners/README.md)
+  * [🐳 WhiteWhale](partnerships/current-partners/whitewhale.md)
+  * [💻 NoDumpNode](partnerships/current-partners/nodumpnode.md)
+  * [🏴☠ BackBone Labs](partnerships/current-partners/backbone-labs.md)
+  * [🏦 Ginkou](partnerships/current-partners/ginkou.md)
+  * [⛏ Galactic Mining Club](partnerships/current-partners/galactic-mining-club.md)
+  * [🧠 Smart Stake](partnerships/current-partners/smart-stake.md)

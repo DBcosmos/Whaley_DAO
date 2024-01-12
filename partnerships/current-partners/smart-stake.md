@@ -1,6 +1,6 @@
 ---
 description: Transparent, professional, and feature rich Validator
-cover: ../.gitbook/assets/st.jpeg
+cover: ../../.gitbook/assets/st.jpeg
 coverY: 0
 layout:
   cover:
