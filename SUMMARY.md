@@ -14,3 +14,8 @@
   * [🏦 Ginkou](partnerships/current-partners/ginkou.md)
   * [⛏ Galactic Mining Club](partnerships/current-partners/galactic-mining-club.md)
   * [🧠 Smart Stake](partnerships/current-partners/smart-stake.md)
+
+## DeFi
+
+* [DeFi PlayBook](defi/defi-playbook/README.md)
+  * [Strategy 1](defi/defi-playbook/strategy-1.md)
