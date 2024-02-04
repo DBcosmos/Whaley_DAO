@@ -2,7 +2,7 @@
 description: >-
   Whaley DAO are proud to Support BackBone Labs in their Mission to make DeFi
   more accessible
-cover: ../../.gitbook/assets/backbone labs.jpeg
+cover: ../../../.gitbook/assets/backbone labs.jpeg
 coverY: 0
 layout:
   cover:

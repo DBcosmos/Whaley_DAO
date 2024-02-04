@@ -1,3 +1,0 @@
-# DeFi PlayBook
-
-Coming soon...

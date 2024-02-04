@@ -1,6 +1,6 @@
 ---
 description: A unique and innovative NFT project backed by BTC.
-cover: ../../.gitbook/assets/gm.jpeg
+cover: ../../../.gitbook/assets/gm.jpeg
 coverY: 0
 layout:
   cover:

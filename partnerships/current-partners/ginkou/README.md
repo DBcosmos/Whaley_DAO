@@ -1,6 +1,6 @@
 ---
 description: The Bank of Alliance
-cover: ../../.gitbook/assets/g.jpeg
+cover: ../../../.gitbook/assets/g.jpeg
 coverY: 0
 layout:
   cover:
