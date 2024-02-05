@@ -1,5 +1,5 @@
 ---
-description: Resources to learn more and navigate Ginkou
+description: Resources to learn more and navigate the Galactic Mining Club ecosystem
 ---
 
 # Galactic Mining Club Resources
