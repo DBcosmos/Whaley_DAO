@@ -2,12 +2,12 @@
 description: >-
   A community DAO validating the Migaloo chian and dedicated to education,
   analytics and community engagement.
-cover: .gitbook/assets/wdw.jpeg
+cover: .gitbook/assets/logo_banner.png
 coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
