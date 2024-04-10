@@ -1,6 +1,6 @@
 ---
 description: >-
-  A community DAO validating the Migaloo chian and dedicated to education,
+  A community DAO validating the Migaloo chain and dedicated to education,
   analytics and community engagement.
 cover: .gitbook/assets/logo_banner.png
 coverY: 0
