@@ -3,6 +3,7 @@
 * [🙎 Introduction](README.md)
 * [💻 Our Validator](our-validator.md)
 * [🥩 Stake With Us](stake-with-us.md)
+* [Documentation](documentation.md)
 
 ## Partnerships
 
