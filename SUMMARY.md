@@ -14,8 +14,6 @@
   * [💻 NoDumpNode](partnerships/current-partners/nodumpnode.md)
   * [🏴‍☠️ BackBone Labs](partnerships/current-partners/backbone-labs/README.md)
     * [BackBone Labs Resources](partnerships/current-partners/backbone-labs/backbone-labs-resources.md)
-  * [🏦 Ginkou](partnerships/current-partners/ginkou/README.md)
-    * [Ginkou Resources](partnerships/current-partners/ginkou/ginkou-resources.md)
   * [⛏️ Galactic Mining Club](partnerships/current-partners/galactic-mining-club/README.md)
     * [Galactic Mining Club Resources](partnerships/current-partners/galactic-mining-club/galactic-mining-club-resources.md)
   * [🧠 Smart Stake](partnerships/current-partners/smart-stake.md)
