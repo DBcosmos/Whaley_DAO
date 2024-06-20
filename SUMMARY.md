@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🙎 Introduction](README.md)
+  * [🗃️ Documentation](introduction/documentation.md)
 * [💻 Our Validator](our-validator.md)
 * [🥩 Stake With Us](stake-with-us.md)
 * [Documentation](documentation.md)
